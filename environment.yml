@@ -1,0 +1,6 @@
+name: testingopenai
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: C:\Users\ashun\anaconda3\envs\testingopenai
